@@ -36,7 +36,7 @@ namespace _001
             Console.WriteLine("Method 2 using Linq enumerables: total is: " + total);
             Console.ReadKey();
 
-            //Soluton 3 without modulus
+            //Soluton 3 without modulus 
 
 
 
