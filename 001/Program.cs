@@ -9,10 +9,6 @@ namespace _001
 {
     class Program
     {
-        //natural numbers:
-        
-
-
         public static void Main(string[] args)
         {
            //Solution 1
@@ -35,11 +31,6 @@ namespace _001
 
             Console.WriteLine("Method 2 using Linq enumerables: total is: " + total);
             Console.ReadKey();
-
-            //Soluton 3 without modulus 
-
-
-
         }
     }
 }
