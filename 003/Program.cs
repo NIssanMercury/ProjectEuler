@@ -1,11 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Globalization;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _003
 {
@@ -14,7 +9,7 @@ namespace _003
         static void Main(string[] args)
         {
             long num = 600851475143;
-            HashSet<int> collection = new HashSet<int>();
+            HashSet<int> collection = new HashSet<int>(); //use hashset for unique entries
             bool finding = true;
             long x = 2;
 
